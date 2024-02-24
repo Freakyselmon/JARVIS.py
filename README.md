@@ -1,3 +1,2 @@
-# JARVIS.py
- This Python Jarvis program may operate within specific command parameters due to the absence of an API key, but its reliability and focused functionality make it a valuable tool for users seeking a responsive and secure virtual assistant experience
-NOTE:- there can be some diffrent liabraies to install for the windows coz some of it doesnt work in it 
+This Python script uses speech recognition and synthesis to create a voice-activated assistant named Jarvis. It responds to user commands, performs actions like opening websites, sharing jokes, and providing information. The assistant also has a humorous touch in its responses, making interactions engaging and entertaining
+NOTE:- you need to install multiple liabraies according to your device diffrent for the windows and diffrent for the MAC 
